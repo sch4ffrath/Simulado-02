@@ -1,0 +1,6 @@
+.container {
+    min-height: 80vh;
+    margin: 0 auto;
+    padding: 1rem;
+    box-sizing: border-box;
+}
